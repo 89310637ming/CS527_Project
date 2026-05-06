@@ -1,6 +1,6 @@
-# CS527 Project 2: Context-Aware Risk-Based Test Case Prioritization
+# CS527 Project : Context-Aware Risk-Based Test Case Prioritization
 
-This repository contains the implementation and evaluation for a CS527 research project on regression test case prioritization. The goal of this project is to improve early fault detection by ranking regression tests using a context-aware, multi-factor risk model.
+This repository contains the implementation and evaluation for CS527 research project on regression test case prioritization. The goal of this project is to improve early fault detection by ranking regression tests using a context-aware, multi-factor risk model.
 
 Instead of prioritizing tests using only one signal, such as failure history or code coverage, this project combines multiple risk indicators:
 
